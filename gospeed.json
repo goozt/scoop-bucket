@@ -1,0 +1,29 @@
+{
+    "version": "1.3.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/goozt/gospeed/releases/download/v1.3.3/gospeed-server_1.3.3_windows_386.zip",
+            "bin": [
+                "gospeed-server.exe"
+            ],
+            "hash": "0763ef8553ffa6ac82715b3433de4b445b2ea9b1d913ec29fb87023d56629bf1"
+        },
+        "64bit": {
+            "url": "https://github.com/goozt/gospeed/releases/download/v1.3.3/gospeed-server_1.3.3_windows_amd64.zip",
+            "bin": [
+                "gospeed-server.exe"
+            ],
+            "hash": "95c7f58593bb49be51305b1b7645764d3a446923d57d6fd4c635831135a5325d"
+        },
+        "arm64": {
+            "url": "https://github.com/goozt/gospeed/releases/download/v1.3.3/gospeed-server_1.3.3_windows_arm64.zip",
+            "bin": [
+                "gospeed-server.exe"
+            ],
+            "hash": "ef92c3b94cc7ae9b9226382b2b116f019f3f90c50a490eeece29d24d4ba7161b"
+        }
+    },
+    "homepage": "https://gospeed.goozt.org",
+    "license": "MIT",
+    "description": "Speed test server for gospeed"
+}
